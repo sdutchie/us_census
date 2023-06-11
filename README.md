@@ -1,6 +1,6 @@
 # us_census_test
 
-This repo was a test repo to prepare git/command line/database skills for ML for public policy course. 
+This repo was a test repo for an asssignment to practice git/command line/api/load and transform data skills for ML for public policy course at Heinz College. 
 
 ## Features
 * Total_Pop
