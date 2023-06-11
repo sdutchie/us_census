@@ -1,4 +1,4 @@
-# myrepo
+# us_census
 
 Instructions: discussion of what you did and why (what data you chose, how you transformed/structured it, how you loaded it, etc)
 
